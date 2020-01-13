@@ -1,7 +1,4 @@
-# scrapers
-a repo of my scrapers
-
-## overview
+# overview
 Using a page from Wikipedia, this python script scrapes for the list of running man episodes and output list in a new text file.
 
 ## setup
